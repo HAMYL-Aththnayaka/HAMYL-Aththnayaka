@@ -16,9 +16,10 @@ _"A heart full of love, a mind full of code, and a soul that never gives up."_
 **"I code because punching people is frowned upon."**
 
 - 🌿 **Humble, but unstoppable**  
-- 💔 **Romantic, but alone in the journey**  
 - ⚡ **Depressed, but never defeated**  
-- 🔥 **Some battles are fought in silence, but the broken pieces always lead to triumph**
+
+
+  #🔥 **Some battles are fought in silence, but the broken pieces always lead to triumph**
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasas-aththanayaka-a9b9b2333)  
