@@ -2,9 +2,7 @@
 
 _"A heart full of love, a mind full of code, and a soul that never gives up."_  
 
-💻 **Building dreams, one line at a time**  
-💔 **Single, but in a committed relationship with ambition**  
-🌊 **Drowning in thoughts, but still floating towards success**  
+💻 **Building dreams, one line at a time**   
 🔥 **Falling, failing, but always rising stronger**  
 
 ---
