@@ -1,6 +1,6 @@
 # 🌙 Yasas Lasitha | The Lone Coder 💻  
 
-_""In the stillness, I code — and my legacy is born.""_  
+_"In the stillness, I code — and my legacy is born."_  
 
 💻 **Building dreams, one line at a time**   
 🔥 **Falling, failing, but always rising stronger**  
