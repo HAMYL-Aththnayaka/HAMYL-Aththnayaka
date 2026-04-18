@@ -1,6 +1,23 @@
-# 🌙 Yasas Lasitha | Binary & Heartbeats 💻
-  
+# 🌙 Yasas Lasitha | Binary & Heartbeats 💻  
+
 😄 **:- Come smile with me — the journey is brighter together!**
+
+---
+
+### 🌐 Portfolio  
+🚀 I build things that actually work — not just ideas.  
+Explore my projects, UI experiments, and full-stack systems:  
+👉 https://yazaz-exe-6wnj.vercel.app/
+
+---
+
+### 💡 About Me  
+💻 Full-Stack Developer focused on scalable web apps and real-time systems  
+🎓 IT Undergraduate (University of Vavuniya)  
+⚡ I like building things that solve real problems  
+🌌 Calm mind, chaotic execution  
+
+**"I code because punching people is frowned upon."**  
 
 ---
 
@@ -28,12 +45,10 @@
 
 ---
 
-_"In the stillness, I code — and my legacy is born."_ 
-### 🌌 About Me:
-**"I code because punching people is frowned upon."**  
-
-📫 **Connect with me:**  
+### 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasas-aththanayaka-a9b9b2333)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HAMYL-Aththnayaka)  
 
-![Logo](https://github.com/user-attachments/assets/4ca71c8b-a8c8-4981-bb06-612b8cbd6469)
+---
+
+_"In the stillness, I code — and my legacy is born."_ 🌌
