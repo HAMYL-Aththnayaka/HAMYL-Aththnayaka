@@ -51,4 +51,4 @@ Explore my projects, UI experiments, and full-stack systems:
 
 ---
 
-_"In the stillness, I code — and my legacy is born."_ 🌌
+_"In the stillness, I code — and my legacy is born. "_ 🌌
