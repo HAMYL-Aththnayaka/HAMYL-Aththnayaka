@@ -4,9 +4,7 @@
 
 ---
 
-### 🌐 Portfolio  
-🚀 I build things that actually work — not just ideas.  
-Explore my projects, UI experiments, and full-stack systems:  
+### 🌐 Portfolio   
 👉 https://yazaz-exe-6wnj.vercel.app/
 
 ---
